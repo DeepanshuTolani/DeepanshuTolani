@@ -1,7 +1,7 @@
 👋 Hi, I’m @DeepanshuTolani  
 
 👀 I’m interested in AI, software development, and problem-solving  
-🌱 I’m currently learning advanced DSA, cloud computing, and AI ,Data Science 
+🌱 I’m currently learning advanced DSA, cloud computing,AI & ML ,Data Science 
 💞️ I’m looking to collaborate on innovative tech projects, especially in AI and web development  
 
 📫 How to reach me:  
