@@ -4,10 +4,10 @@
 🌱 I’m currently learning advanced DSA, cloud computing, and AI in healthcare
 💞️ I’m looking to collaborate on innovative tech projects, especially in AI and web development
 📫 How to reach me:
-LinkedIn: Deepanshu Tolani
-GitHub: Deepanshu816
-Devfolio: deepanshutolani
-Instagram: tolanideepanshu
+LinkedIn: https://in.linkedin.com/in/deepanshu-tolani-23b7a22b1
+GitHub: https://github.com/Deepanshu816
+Devfolio: https://devfolio.co/@deepanshutolani
+Instagram: https://www.instagram.com/tolanideepanshu/
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love playing chess and badminton in my free time!
 <!---
