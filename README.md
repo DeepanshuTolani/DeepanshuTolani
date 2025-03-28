@@ -9,7 +9,7 @@
 - **GitHub:** [Deepanshu816](https://github.com/Deepanshu816)  
 - **Devfolio:** [deepanshutolani](https://devfolio.co/@deepanshutolani)  
 - **Instagram:** [tolanideepanshu](https://www.instagram.com/tolanideepanshu/)
-- YouTube: deepanshutolani
+- **YouTube:** [deepanshutolani](https://www.youtube.com/@deepanshutolani4851)
 
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love playing chess and badminton in my free time!  
