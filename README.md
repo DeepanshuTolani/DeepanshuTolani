@@ -1,21 +1,71 @@
-# 💫 About Me:
-👀 Passionate about AI, software development, and solving real-world problems through tech.  <br>🌱 Currently diving deep into advanced DSA, cloud computing, AI/ML, and data science.  <br>💞️ Excited to collaborate on cutting-edge projects in AI and modern web development.
+🌌 Deepanshu Tolani - Crafting the Future with Code
+Hey there! I’m Deepanshu Tolani, a tech trailblazer passionate about Artificial Intelligence, Digital Forensics, and Software Development. My mission? To solve real-world challenges with innovative, scalable solutions that blend creativity with cutting-edge technology. Whether it’s diving into NTFS log parsing or architecting cloud-based applications, I’m all about pushing boundaries and building impactful projects.
+🌱 Currently Mastering: Advanced Data Structures & Algorithms, Cloud Computing (AWS & Google Cloud), AI/ML, and Full-Stack Web Development.💡 Vision: To create AI-driven solutions that empower industries and transform lives.⚡ Fun Fact: I find inspiration in the elegance of code, much like solving a complex puzzle under a starry night sky.
+
+🌐 Let’s Connect
+Join me in the tech universe! Collaborate, share ideas, or just say hi.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ [deepanshutolani](https://devfolio.co/@deepanshutolani)  ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ [tolanideepanshu](https://www.instagram.com/tolanideepanshu/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ [Deepanshu Tolani](https://in.linkedin.com/in/deepanshu-tolani-23b7a22b1)  ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ [deepanshutolani](https://www.youtube.com/@deepanshutolani4851)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tolanideepanshu@gmail.com) 
+💻 Tech Stack
+My toolkit for building the future, from AI models to cloud-native apps:
+            ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style{forzuk
+📊 Skills Showcase
+Here’s a visual representation of my core technical skills:
+{
+  "type": "radar",
+  "data": {
+    "labels": ["AI/ML", "Web Development", "Cloud Computing", "DSA", "Digital Forensics"],
+    "datasets": [{
+      "label": "Skill Proficiency",
+      "data": [90, 85, 80, 95, 88],
+      "backgroundColor": "rgba(54, 162, 235, 0.2)",
+      "borderColor": "#36A2EB",
+      "borderWidth": 2,
+      "pointBackgroundColor": "#36A2EB",
+      "pointBorderColor": "#fff",
+      "pointHoverBackgroundColor": "#fff",
+      "pointHoverBorderColor": "#36A2EB"
+    }]
+  },
+  "options": {
+    "scale": {
+      "ticks": { "beginAtZero": true, "max": 100 },
+      "pointLabels": { "fontSize": 12 }
+    },
+    "elements": {
+      "line": { "tension": 0.4 }
+    }
+  }
+}
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeepanshuTolani&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DeepanshuTolani&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuTolani&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🏆 Featured Projects
+A glimpse into my journey of building impactful tech solutions:
 
----
-[![](https://visitcount.itsvg.in/api?id=DeepanshuTolani&icon=0&color=0)](https://visitcount.itsvg.in)
+NTFS Log ParserA Python-based tool for parsing NTFS system files like $MFT and $LogFile, designed for digital forensics to extract metadata and reconstruct file activities.Tech: Python, pytsk3, Pandas🔗 View Project
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+AI-Driven Facial Recognition SystemA machine learning-powered system for real-time facial recognition, optimized for accuracy and speed.Tech: Python, OpenCV, TensorFlow🔗 View Project
+
+Carbon Footprint TrackerA full-stack web app to monitor and reduce carbon emissions, featuring a sleek UI and real-time data visualization.Tech: React, Node.js, MongoDB, Firebase🔗 View Project
+
+
+
+🎓 Certifications
+Credentials that fuel my expertise:
+
+Google Cloud Professional Data Engineer (2024)  
+AWS Certified Solutions Architect – Associate (2024)  
+Deep Learning Specialization – Coursera (2023)  
+Advanced Data Structures & Algorithms – LeetCode (2023)
+
+
+📈 GitHub Contributions
+My coding journey, visualized:
+
+
+
+✍️ Dev Inspiration
+"Code is not just logic; it’s a canvas where creativity meets precision to shape the future."— Deepanshu Tolani
+
+
+Crafted with passion by Deepanshu Tolani using GPRM
