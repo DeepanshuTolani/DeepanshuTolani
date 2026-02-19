@@ -1,116 +1,150 @@
-# 👋 Hi, I’m Deepanshu Tolani
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Deepanshu Tolani</h1>
+<h3 align="center">🚀 AI Engineer | Full-Stack Developer | Problem Solver</h3>
 
-### 🚀 AI Enthusiast | Software Developer | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Cloud;Computer+Vision+%7C+Deep+Learning;Full+Stack+Developer;Building+Intelligent+Systems" />
+</p>
 
-I’m passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, and scalable software engineering.
+---
 
-- 💡 Strong foundation in **Data Structures & Algorithms, AI/ML, and Cloud Computing**
-- 🔭 Building impactful projects in **Computer Vision, Deep Learning, and Full-Stack Development**
-- 🌱 Continuously learning advanced concepts in **MLOps, System Design, and Distributed Systems**
-- 🤝 Open to collaborations on **AI-powered applications and innovative software solutions**
-- 🎯 Goal: To create technology that is intelligent, scalable, and meaningful
+## 🚀 About Me
+
+I’m passionate about building **intelligent, scalable systems** that solve real-world problems using **Artificial Intelligence, Machine Learning, and Modern Software Engineering.**
+
+- 💡 Strong in **Data Structures & Algorithms**
+- 🤖 Building AI systems in **Computer Vision & Deep Learning**
+- ☁️ Exploring **Cloud, MLOps & System Design**
+- 🧠 Love solving real-world optimization problems
+- 🎯 Mission: Build technology that is **intelligent, scalable & impactful**
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/deepanshu-tolani-23b7a22b1)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DeepanshuTolani)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tolanideepanshu/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@deepanshutolani4851)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tolanideepanshu@gmail.com)
+<p align="left">
+<a href="https://in.linkedin.com/in/deepanshu-tolani-23b7a22b1" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-DeepanshuTolani-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/DeepanshuTolani" target="blank">
+<img src="https://img.shields.io/badge/GitHub-DeepanshuTolani-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.youtube.com/@deepanshutolani4851" target="blank">
+<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" />
+</a>
+<a href="mailto:tolanideepanshu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+</p>
 
-### AI / ML
-- PyTorch  
-- TensorFlow  
-- OpenCV  
+## 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
 - YOLOv8  
 - Computer Vision  
 - Deep Learning  
 - NLP  
 
-### Backend & DevOps
-- FastAPI  
-- Docker  
-- AWS  
-- GitHub Actions  
-- CI/CD  
-- REST APIs  
-
-### Databases
-- MySQL  
-- MongoDB  
-- Firebase  
+## ⚙️ Backend & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,mysql,mongodb,firebase,git,githubactions" />
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshutolani&theme=radical&show_icons=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuTolani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuTolani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshutolani&theme=radical&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshutolani&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeepanshuTolani&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🫁 Lung Disease Detection System
-- Deep Learning based medical imaging platform  
-- Custom CNN model for chest X-ray analysis  
-- FastAPI backend with real-time predictions  
-- Dockerized and deployed on AWS  
+## 🫁 Lung Disease Detection System
+> Deep Learning based medical imaging platform for chest X-ray analysis.
 
-🔗 **Tech Stack:** PyTorch, FastAPI, Docker, AWS  
-🔗 [GitHub Repository](https://github.com/DeepanshuTolani/Lungs-Disease-Diagnosis-master)
+✔ Custom CNN model  
+✔ FastAPI backend  
+✔ Dockerized deployment  
+✔ AWS integration  
 
----
+**Tech:** PyTorch • FastAPI • Docker • AWS  
 
-### 🪖 YOLOv8 Helmet Detection Platform
-- Real-time object detection system  
-- Trained YOLOv8 on custom dataset  
-- OpenCV based inference pipeline  
-- REST API for predictions  
-
-🔗 **Tech Stack:** Python, YOLOv8, OpenCV, FastAPI  
-🔗 [GitHub Repository](https://github.com/DeepanshuTolani/Helmet-detection)
+🔗 Repository:  
+https://github.com/DeepanshuTolani/Lungs-Disease-Diagnosis-master  
 
 ---
 
-### 🤖 Custom GPT Model
-- AI chatbot with contextual understanding  
-- NLP-based response generation  
-- Web interface with interactive UI  
-- Backend integrated with AI pipeline  
+## 🪖 YOLOv8 Helmet Detection System
+> Real-time object detection system for helmet compliance monitoring.
 
-🔗 **Tech Stack:** Python, FastAPI, AI/ML  
-🔗 [GitHub Repository](https://github.com/DeepanshuTolani/Custom-GPT-model)
+✔ YOLOv8 trained on custom dataset  
+✔ OpenCV inference pipeline  
+✔ REST API support  
 
----
+**Tech:** Python • YOLOv8 • OpenCV • FastAPI  
 
-# 💡 Dev Philosophy
-
-> “Great software isn’t just written – it’s designed, optimized, and built to create impact.”
+🔗 Repository:  
+https://github.com/DeepanshuTolani/Helmet-detection  
 
 ---
 
-# 🌟 Let’s Build Something Amazing Together!
+## 🤖 Custom GPT Model
+> Context-aware AI chatbot with NLP-based understanding.
 
-I’m always excited to work on challenging projects and innovative ideas.
+✔ Conversational AI pipeline  
+✔ Interactive Web UI  
+✔ Backend integration  
 
-📩 Feel free to reach out on **LinkedIn or Email** – let’s collaborate!
+**Tech:** Python • FastAPI • NLP  
+
+🔗 Repository:  
+https://github.com/DeepanshuTolani/Custom-GPT-model  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=deepanshutolani&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🏆 Achievements
+
+- 🎓 9.42 CGPA (CSE)
+- 🏅 Azure AI Fundamentals Certified
+- 🏆 Cleared Institutional Round – Smart India Hackathon
+- 🧠 IEEE CS Hackathon Participant
+
+---
+
+# 💡 Development Philosophy
+
+> "Code is not just written — it is engineered for scale, optimized for performance, and built for impact."
+
+---
+
+# 📈 Profile Views
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=DeepanshuTolani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
+---
+
+<h3 align="center">⭐ Let’s Build Something Amazing Together ⭐</h3>
+<p align="center">
+Open to AI research, startup collaborations & innovative tech projects.
+</p>
