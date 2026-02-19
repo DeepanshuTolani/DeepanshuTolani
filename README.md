@@ -78,48 +78,68 @@ I’m passionate about building **intelligent, scalable systems** that solve rea
 
 # 🚀 Featured Projects
 
-## 🫁 Lung Disease Detection System
-> Deep Learning based medical imaging platform for chest X-ray analysis.
+---
 
-✔ Custom CNN model  
-✔ FastAPI backend  
-✔ Dockerized deployment  
-✔ AWS integration  
+## 🫁 PulmoScan – AI-Powered Lung Disease Detection
 
-**Tech:** PyTorch • FastAPI • Docker • AWS  
+An intelligent medical imaging platform that leverages Deep Learning to detect lung diseases from Chest X-ray images with high accuracy and real-time inference capability.
 
-🔗 Repository:  
+### 🔥 Key Highlights
+- 🧠 Custom CNN architecture for X-ray classification
+- ⚡ Real-time prediction using FastAPI
+- 🐳 Fully Dockerized microservice architecture
+- ☁️ Deployed on AWS EC2 (Production Ready)
+
+**Tech Stack:** PyTorch • FastAPI • Docker • AWS • Computer Vision  
+
+🔗 **Repository:**  
 https://github.com/DeepanshuTolani/Lungs-Disease-Diagnosis-master  
 
+🔗 **Live Deployment:**  
+https://pulmoscan.duckdns.org/
+
 ---
 
-## 🪖 YOLOv8 Helmet Detection System
-> Real-time object detection system for helmet compliance monitoring.
+## 🪖 Smart Helmet Detection – YOLOv8 Real-Time System
 
-✔ YOLOv8 trained on custom dataset  
-✔ OpenCV inference pipeline  
-✔ REST API support  
+A real-time object detection system built using YOLOv8 to monitor helmet compliance using computer vision and scalable API infrastructure.
 
-**Tech:** Python • YOLOv8 • OpenCV • FastAPI  
+### 🔥 Key Highlights
+- 🎯 Custom-trained YOLOv8 model
+- 📹 OpenCV real-time video inference pipeline
+- 🌐 REST API integration for predictions
+- ☁️ AWS deployed with public endpoint
 
-🔗 Repository:  
+**Tech Stack:** Python • YOLOv8 • OpenCV • FastAPI • Docker  
+
+🔗 **Repository:**  
 https://github.com/DeepanshuTolani/Helmet-detection  
 
+🔗 **Live Deployment:**  
+https://deepanshuhelmet.duckdns.org/
+
 ---
 
-## 🤖 Custom GPT Model
-> Context-aware AI chatbot with NLP-based understanding.
+## 🤖 DeepanshuAI – Custom GPT Conversational System
 
-✔ Conversational AI pipeline  
-✔ Interactive Web UI  
-✔ Backend integration  
+A context-aware GPT-inspired conversational AI system featuring modular NLP pipelines and scalable backend architecture.
 
-**Tech:** Python • FastAPI • NLP  
+### 🔥 Key Highlights
+- 🧠 Context retention & conversational memory
+- 🔍 NLP-based response generation
+- 🌐 Interactive Web Interface
+- ☁️ Cloud deployment with API support
 
-🔗 Repository:  
+**Tech Stack:** Python • FastAPI • NLP • LLM Architecture  
+
+🔗 **Repository:**  
 https://github.com/DeepanshuTolani/Custom-GPT-model  
 
+🔗 **Live Deployment:**  
+http://deepanshuai.duckdns.org/
+
 ---
+
 
 # 🏆 Achievements
 
